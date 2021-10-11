@@ -4,7 +4,7 @@
 
 ⭐Search project with YouTube Data API
 
- <br>
+ 
 
 ## Technologies
 - ReactJS
@@ -15,7 +15,7 @@
 
 
 
-<br>
+
 
 ## :tada: What does this repository contain?
 
