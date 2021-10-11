@@ -4,18 +4,11 @@
 
 ⭐Search project with YouTube Data API
 
- 
-
 ## Technologies
 - ReactJS
 - TypeScript
 - Axios
 - Semantic UI React
- 
-
-
-
-
 
 ## :tada: What does this repository contain?
 
